@@ -27,13 +27,13 @@
 }
 
 .logo:hover{
-    color:#f38b08;
-    text-shadow: 0 0 25px #f38b08,
-                 0 0 50px #f38b08;
+    color:#799a28;
+    text-shadow: 0 0 25px #799a28,
+                 0 0 50px #799a28;
     transform: scale(1.1);   
 }
 span{
-    color:#f38b08;
+    color:#799a28;
 }
 
 .navbar a{
@@ -46,8 +46,8 @@ span{
 }
 .navbar a:hover,
 .navbar a.active{
-    color:#f38b08;
-    border-bottom: 3px solid #f38b08;
+    color:#799a28;
+    border-bottom: 3px solid #799a28;
 }
 .contact{
     padding: 10px 28px;
@@ -61,8 +61,8 @@ span{
     transition: 0.3 ease;
 }
 .contact:hover{
-    background-color: #f38b08;
-    box-shadow: 0 0 25px #f38b08;
+    background-color: #799a28;
+    box-shadow: 0 0 25px #799a28;
     color: white;
 }
 .home{
@@ -111,7 +111,7 @@ span{
 }
 .btn-2{
     padding: 15px 28px;
-    background-color: #f38b08;
+    background-color: #799a28;
     color: white;
     border: 2px solid black;
     border-radius: 8px;
@@ -123,11 +123,11 @@ span{
 }
 .btn-2:hover{
     background-color: white;
-    color: #f38b08;
+    color: #799a28;
 }
 
 .img-box img{
-    border-radius: 50%;
+    border-radius: 5%;
     width: 550px;
 }
 
@@ -135,7 +135,7 @@ span{
     width: 15px;
 }
 ::-webkit-scrollbar-thumb{
-    background-color: #f38b08;
+    background-color: #799a28;
 }
 ::-webkit-scrollbar-track{
     background-color: rgba( 0, 0, 0 , 0.6);
@@ -152,9 +152,9 @@ span{
 .about-img img{
     position: relative;
     width: 550px;
-    box-shadow: 0 0 25px #f38b08,
-                0 0 50px #f38b08;
-    border-radius: 50%;
+    box-shadow: 0 0 25px #799a28,
+                0 0 50px #799a28;
+    border-radius: 10%;
 }
 .about-content h2{
     text-align: left;
