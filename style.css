@@ -219,6 +219,8 @@ span{
     height: 10px;
     line-height: 38px;
     text-align: center;
+    display: flex;
+    justify-content: center;
     margin: 0 8px;
 }
 .sena_img{
